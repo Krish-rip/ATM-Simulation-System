@@ -59,7 +59,7 @@
 </ol>
 
 ## Screenshots
-<img src="/images/p.png" alt="demo1"/>
-<img src="/images/p.png" alt="demo1"/>
-<img src="/images/p.png" alt="demo1"/>
+<img src="/ATM/src/ASimulatorSystem/img/login.png" alt="demo1"/>
+<img src="/ATM/src/ASimulatorSystem/img/signup.png" alt="demo2"/>
+<img src="/ATM/src/ASimulatorSystem/img/main.png" alt="demo3"/>
 
